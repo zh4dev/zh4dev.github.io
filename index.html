@@ -18,7 +18,7 @@
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="My Portofolio">
+  <meta name="description" content="A Mobile Developer with 5+ years of experience. Proficient in Flutter, React Native, and Android Native (Java), I've successfully delivered projects across industries. Passionate about crafting innovative, user-friendly mobile apps.">
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -34,13 +34,17 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "2651596129";
+    const serviceWorkerVersion = "2780900046";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
 <body>
   <script>
+      window.addEventListener('beforeinstallprompt', function (e) {
+        e.preventDefault();
+        return false;
+    });
     window.addEventListener('load', function(ev) {
       // Download main.dart.js
       _flutter.loader.loadEntrypoint({
