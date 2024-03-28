@@ -28556,7 +28556,7 @@ A.apa.prototype={
 $1(a){var s=A.f7().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/2e4ba9c6fb499ccd4e81420543783cc7267ae406/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/a5c24f538d05aaf66f7972fb23959d8cafb9f95a/":s)+a},
 $S:83}
 A.apm.prototype={
 $1(a){this.a.remove()
@@ -83639,7 +83639,7 @@ p.Ao()
 return p},
 $S:494}
 A.aiv.prototype={
-$0(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6=null,a7="Mercu Buana University",a8="Mobile Developer",a9="UI and Logic Integration from beginning to end",b0="Maintenance the App",b1="Improving UI, Performance, and Security",b2="Reducing App Size",b3="Firebase Crashlytics Integration",b4="Android Native (Java)",b5="Refactor the Code",b6="Google Maps Integration",b7="Firebase Integration",b8="Build Application with using Android Native (Java)",b9="Firebase Realtime Database Integration"
+$0(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6=null,a7="Mercu Buana University",a8="Mobile Developer",a9="UI and Logic Integration from beginning to end",b0="Maintenance the App",b1="Improving UI, Performance, and Security",b2="Reducing App Size",b3="Firebase Crashlytics Integration",b4="Android Native (Java)",b5="Refactor the Code",b6="UI and Logic Integration from beginning to end.",b7="Google Maps Integration",b8="Firebase Realtime Database Integration"
 $.bs()
 s=$.ar
 if(s==null)s=$.ar=B.u
@@ -83660,7 +83660,7 @@ l=A.a(["Adhan Time Integration","Schedule Notification with Adhan Sound per day 
 k=A.a(["Flutter","UI/UX Design"],n)
 j=new A.de()
 j.es("https://apps.apple.com/app/as-salah/id1607255192","Muslims can use this Application to help make it simpler for them to perform their worship. This product is by One Ummah Lighthouse (Malaysian company). https://assalah.io/",A.a([],n),a6,"https://play.google.com/store/apps/details?id=com.amn.salah",k,"As Salah",a6,l)
-l=A.a([b0,b1,b2,b3,"API Integration"],n)
+l=A.a([b0,b1,b2,b3,"API Integration","Firebase Firestore Integration"],n)
 k=A.a(["Flutter"],n)
 i=new A.de()
 i.es("https://apps.apple.com/us/app/slashie/id1610216227","With Slashie, you can celebrate your unique personality, passions, values, and interests and find the perfect mentor to help guide you on your journey. Our app offers a range of mentoring options, including one-on-one, group, peer, and reverse mentoring, allowing you to choose the best way to engage and learn",A.a([],n),a6,"https://play.google.com/store/apps/details?id=com.flyingcape.slashie&hl=en",k,"Slashie",a6,l)
@@ -83668,7 +83668,7 @@ l=A.a(["Migrating from Ionic to Flutter",b0,b1,b2,b3,"API Integration"],n)
 k=A.a(["Flutter","UI/UX Design"],n)
 h=new A.de()
 h.es(a6,"Flying Cape is an online booking platform for tuition and enrichment classes in Singapore.",A.a([],n),a6,"https://play.google.com/store/apps/details?id=com.flyingcape.parent&hl=en",k,"Flying Cape",a6,l)
-l=A.a(["Build UI and Logic for Authentication (Which included login/registration with using Phone Number, forgot password, login pin, logout, etc) ","Notification Integration (Using Firebase Notification also the detail and list Notification) ","Build UI and Logic for Loan Application from Step 1 to Step 3 (When user is first time using Ceria, this will take user to input the personal data information) ","Payment (Tagihan and Cicilan) Integration","Build UI and Logic for TnC","Integration Nodeflux Liveness for Ios and Android to detect user face when user in the Step 3","Firebase Crashlytics, Analytics Integration","API Integration","Etc"],n)
+l=A.a(["Build UI and Logic for Authentication (Which included login/registration with using Phone Number, forgot password, login pin, logout, etc) ","Notification Integration (Using Firebase Notification also the detail and list Notification) ","Build UI and Logic for Loan Application from Step 1 to Step 3 (When user is first time using Ceria, this will take user to input the personal data information) ","Payment (Tagihan and Cicilan) Integration","Build UI and Logic for TnC","Integration Nodeflux Liveness for Ios and Android to detect user face when user in the Step 3","Firebase Crashlytics, Analytics Integration","API Integration"],n)
 k=A.a(["Flutter",b4],n)
 g=new A.de()
 g.es("https://apps.apple.com/id/app/bri-ceria/id1670051543","Ceria is a Digital Lending by Bank BRI based on Android and Ios Applications. All saving customer of Bank BRI can apply for Ceria facility.",A.a([],n),a6,"https://play.google.com/store/apps/details?id=id.co.bri.ceria&hl=id",k,"Ceria BRI",a6,l)
@@ -83680,11 +83680,11 @@ l=A.a([b5,"Improving UI, Performance, Security.",b2,b3,b0,"API Integration"],n)
 k=A.a(["Flutter","UI/UX Design"],n)
 e=new A.de()
 e.es("https://apps.apple.com/de/app/nurture-craft-teacher/id1627708968","Allows users to access their classes, courses, and materials from anywhere, even on the go. Users can download class contents and media for their personal use. There is a super offline mode feature that allows users to access their downloads for a limited time without data.",A.a([],n),a6,"https://play.google.com/store/apps/details?id=com.edon.teacher&hl=en_US&gl=US",k,"Nurture Craft Teacher",a6,l)
-l=A.a(["Migrate from React Native to Flutter ","UI and Logic Integration from beginning to end, which included Payment Integration with using Midtrans.","API Integration"],n)
+l=A.a(["Migrate from React Native to Flutter","UI and Logic Integration from beginning to end, which included Payment Integration with using Midtrans.","API Integration"],n)
 k=A.a(["Flutter","React Native"],n)
 d=new A.de()
 d.es("https://apps.apple.com/id/app/rumah-berkat/id1580891686","Rumah Berkat is a charity application that allows you to donate with any available Midtrans payment method.",A.a([],n),a6,"https://play.google.com/store/apps/details?id=com.rumahberkat&hl=id",k,"Rumah Berkat",a6,l)
-l=A.a(["App Maintenance","Firebase Cloud Messaging Intergration","API Integration"],n)
+l=A.a(["App Maintenance","Firebase Cloud Messaging Integration","API Integration"],n)
 k=A.a([b4],n)
 c=new A.de()
 c.es(a6,"Small and medium-sized enterprises (SMEs) and small traders often struggle to secure investments or expand their businesses due to their lack of proficiency in presenting financial statements.",A.a([],n),a6,"https://play.google.com/store/apps/details?id=com.dimulainol.app&hl=en_US",k,"Dimulai Nol",a6,l)
@@ -83692,31 +83692,31 @@ l=A.a(["Notification Integration (Included Firebase Notification)","Korlantas Ne
 k=A.a(["Flutter"],n)
 b=new A.de()
 b.es("https://apps.apple.com/id/app/digital-korlantas-polri/id1565558949","The POLRI Korlantas Digital Application is the official application from the Indonesian POLRI Korlantas which aims to provide convenience to the Indonesian people who need Korlantas services.",A.a([],n),a6,"https://play.google.com/store/apps/details?id=id.qoin.korlantas.user&hl=en_US&gl=US",k,"Digital Korlantas Polri",a6,l)
-l=A.a(["UI and Logic Integration from beginning to end. ",b6,b7,b8],n)
+l=A.a([b6,b7,b8],n)
 k=A.a([b4,"UI/UX Design"],n)
 a=new A.de()
 a.es(a6,"This application is made for PT. Santos Jaya Abadi (Kopi Good Day). Integration with the google maps and Keiko Website to track motorist, buy product, reporting, and point result.",A.a([],n),"https://drive.google.com/drive/folders/1rPMu5rrsyT4npWlLixeXmG9R5vrb_ySU",a6,k,"Keiko Kopi Good Day",a6,l)
-l=A.a(["UI and Logic Integration from beginning to end.",b6,b7],n)
+l=A.a([b6,b7,"Firebase Firestore Database Integration"],n)
 k=A.a(["Flutter","UI/UX Design"],n)
 a0=new A.de()
 a0.es(a6,"This application makes it easy to carry out sports activities, from ordering coaches to field sites.",A.a([],n),"https://drive.google.com/drive/folders/1KxfxLzchpfK5ocyMYwfrMrHu4gz6R5ys",a6,k,"Safe SportId",a6,l)
-l=A.a([a9,b9,b8],n)
+l=A.a([a9,b8],n)
 k=A.a([b4,"UI/UX Design"],n)
 a1=new A.de()
 a1.es(a6,"Designed for the Immigration Department, it performs attendance, can check whether employees are present or not, can check employee locations if they are far from the office, can check whether employees are late or go home early, can perform attendance permits, check attendance, and admins can print and validate attendance, permits attendance from employees, and more.",A.a([],n),"https://drive.google.com/drive/folders/1bDXl3jBB8ZBm7mk-4L-RMEO3kDbcHsL8",a6,k,"Imitek",a6,l)
-l=A.a([a9,b9,b8],n)
+l=A.a([a9,b8],n)
 k=A.a([b4,"UI/UX Design"],n)
 a2=new A.de()
 a2.es(a6,"This application is specifically designed for the Immigration Government to manage the schedule of leadership activities. It enables users to print the agenda in PDF format, capture attendance through photos, and receive notifications based on the date and time of the scheduled activities.",A.a([],n),"https://drive.google.com/drive/folders/1Kx_Jr73HZkDFbuJknT_cTnHEmjCkI8Xc",a6,k,"Amitek",a6,l)
-l=A.a(["Hardware integration to Print the Receipt ","Build 2 Role in one App (Admin and Seller)",b8,"Firebase Realtime Database"],n)
+l=A.a(["Hardware integration to Print the Receipt ","Build 2 Role in one App (Admin and Seller)",b8],n)
 k=A.a([b4,"UI/UX Design"],n)
 a3=new A.de()
 a3.es(a6,"This application, which was created for a cafe, can handle any transaction involving the Seller and Admin roles. Sellers can make payments by choosing options from menus that the administrator has already constructed, printing transactions as receipts using built-in hardware, and administrators can view total sales daily, weekly, monthly, and yearly.",A.a([],n),"https://drive.google.com/drive/folders/1EGf68YcRRmKl0Nq1zO91qGoMY7-1MgNy","https://play.google.com/store/apps/details?id=com.safebusiness.foodp&hl=en",k,"Xtro Coffee","https://drive.google.com/file/d/1ry5u3kJ-BunWQO8GyHdCnRCu7dfZpjYg/view",l)
 l=A.a([a9,"Build the Draw feature for the Document if there is any revision or wrong data",b8],n)
 k=A.a(["Flutter","UI/UX Design"],n)
 a4=new A.de()
-a4.es(a6,"Designed for the Tangerang government to make work easier, my client and I (from KASUBAG Karang Tengah Kota Tangerang) were included in the 4 best ideas with more than 40 participants (Training).",A.a([],n),"https://drive.google.com/drive/folders/1O2FJLA56LOfFoPqw-p285sRmMDT5YY55","https://play.google.com/store/apps/details?id=com.safebusiness.safe_finance&hl=en",k,"Safe Report",a6,l)
-l=A.a(["Create application business process flow","Organize and adjust the client's wishes for the appearance of the design and business processes","Create Android Application using Java language","Present the results to the client"],n)
+a4.es(a6,"Designed for the Tangerang government to make work easier, my client and I (from KASUBAG Karang Tengah Kota Tangerang) were included in the 4 best ideas with more than 40 participants (Training).",A.a([],n),"https://drive.google.com/drive/folders/1O2FJLA56LOfFoPqw-p285sRmMDT5YY55",a6,k,"Safe Report",a6,l)
+l=A.a(["Create application business process flow","Organize and adjust the client's wishes for the appearance of the design and business processes","Present the results to the client"],n)
 k=A.a([b4,"Project Manager","System Analyst"],n)
 a5=new A.de()
 a5.es(a6,"Designed for the Tangerang government to simplify the salary increase reminder process, using precise notification schedule technology according to the specified time.",A.a([],n),"https://drive.google.com/drive/folders/18y0gMTbhmj32V4dNWfLKXFksD28t0sGp?usp=sharing",a6,k,"Si Aci On Kring",a6,l)
