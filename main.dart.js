@@ -77501,7 +77501,7 @@ A.axA(s,new A.aj1(),t.pa)
 A.axA(s,new A.aj2(),t.J9)},
 $S:0}
 A.aj1.prototype={
-$0(){var s,r,q,p,o,n,m=null,l="gerzhahp@gmail.com",k=A.NA(),j=A.a(["Mobile Developer","Full Stack DeveloperUI/UX Designer","Freelancer"],t.s),i=new A.m4()
+$0(){var s,r,q,p,o,n,m=null,l="gerzhahp@gmail.com",k=A.NA(),j=A.a(["Mobile Developer","Full Stack Developer","UI/UX Designer","Freelancer"],t.s),i=new A.m4()
 i.zI(m,"Indonesia, Depok","Address")
 s=new A.m4()
 s.zI(m,l,"Email")
