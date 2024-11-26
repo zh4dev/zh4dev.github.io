@@ -77033,7 +77033,7 @@ A.a79.prototype={
 $0(){A.AA(this.a).akw()},
 $S:0}
 A.Q_.prototype={
-L(a){return new A.y4($.auU(),B.FZ,new A.aiL(),"Portfolio",A.avt(a),A.avt(a),!1,new A.aiM(),null)}}
+L(a){return new A.y4($.auU(),B.FZ,new A.aiL(),"Gerzha Portfolio",A.avt(a),A.avt(a),!1,new A.aiM(),null)}}
 A.aiM.prototype={
 $0(){var s=$.bn()
 A.axh(s,new A.aiI(),t.pa)
