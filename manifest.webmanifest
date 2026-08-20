@@ -1,0 +1,16 @@
+{
+  "name": "Gerzha Portfolio",
+  "short_name": "Gerzha",
+  "description": "Premium portfolio of Gerzha Hayat Prakarsha, Senior Mobile and Full-Stack Developer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#050816",
+  "icons": [
+    {
+      "src": "/images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
