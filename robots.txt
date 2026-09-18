@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zh4.dev/sitemap.xml
+Sitemap: https://zh4dev.github.io/sitemap.xml
